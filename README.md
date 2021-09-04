@@ -13,7 +13,7 @@ Paris is the city which has huge number of hotels and restaurents **City of Fash
    1. After reaching the airport check in your respective flight.
    2. Collect the boarding pass and reach your destination in the flight.
 
-*  Items to carry for the trip
+# Items to carry for the trip
 * clothes
   * jeans
   * shirts
