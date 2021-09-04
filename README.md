@@ -47,5 +47,5 @@ The above table recommends some of my best food and drinks I experienced til now
 
 # Quotes by Great People
 
-> "We're here to put a dent in the universe Otherwise why else even be here?" - by ***Steve Jobs*** 
+> "We're here to put a dent in the universe Otherwise why else even be here?" - by ***Steve Jobs*** <br>
 > "Why is it that people who can't take advice always insist on giving it?" - by ***James Bond***
