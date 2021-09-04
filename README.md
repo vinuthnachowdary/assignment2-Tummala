@@ -15,14 +15,14 @@ Paris is the city which has huge number of hotels and restaurents **City of Fash
 
 *  Items to carry for the trip
 * clothes
-  *jeans
-  *shirts
+  * jeans
+  * shirts
 * SkinCare
-  *Bodycream
-  *Handcream
-  *Moisturizer
-  *Handcream
-  *Bodybutter
+  * Bodycream
+  * Handcream
+  * Moisturizer
+  * Handcream
+  * Bodybutter
 * food
 * camera
 * shoes
