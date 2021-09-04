@@ -40,3 +40,4 @@ The above table recommends some of my best food and drinks I experienced til now
 |    Fudgy chocolate sphere |       Brownie milkshake  | $12   |
 |    Caramel Mocha Cupcake  |       Irish Coffee       | $15   |
 |    Choco Ganache          |       Cranberry          | $14   |
+|    Gooey choco fudge cake |       Vanilla Milkshake  | $11   |
