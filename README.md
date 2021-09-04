@@ -28,3 +28,15 @@ Paris is the city which has huge number of hotels and restaurents **City of Fash
 * shoes
 
 [image](https://github.com/vinuthnachowdary/assignment2-Tummala/blob/main/AboutMe.md)
+
+---
+
+# Table Creation
+
+The above table recommends some of my best food and drinks I experienced til now.
+
+|           Food            |       Drink              | Price |
+|            ----           |       -----              | ----- |
+|    Fudgy chocolate sphere |       Brownie milkshake  | $12   |
+|    Caramel Mocha Cupcake  |       Irish Coffee       | $15   |
+|    Choco Ganache          |       Cranberry          | $14   |
