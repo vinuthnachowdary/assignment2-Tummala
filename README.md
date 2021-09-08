@@ -35,12 +35,12 @@ Paris is the city which has huge number of hotels and restaurents **City of Fash
 
 The above table recommends some of my best food and drinks I experienced til now.
 
-|           Food            |       Drink              | Price |
-|            ----           |       -----              | ----- |
-|    Fudgy chocolate sphere |       Brownie milkshake  | $12   |
-|    Caramel Mocha Cupcake  |       Irish Coffee       | $15   |
-|    Choco Ganache          |       Cranberry          | $14   |
-|    Gooey choco fudge cake |       Vanilla Milkshake  | $11   |
+|           Food/Drink      |      Location            | Price |
+|           ----            |      -----               | ----: |
+|    Fudgy chocolate sphere |       Starbucks          | $12   |
+|    Caramel Mocha Cupcake  |       Taco               | $15   |
+|    Choco Ganache          |       MC D               | $14   |
+|     Vanilla Milkshake     |       Joy Wok            | $11   |
 
 
 ---
